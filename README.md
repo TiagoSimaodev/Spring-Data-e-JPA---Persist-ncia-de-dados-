@@ -7,11 +7,8 @@ ORM, repositórios e consultas customizadas com JPQL.
 
 ✅ Funcionalidades Implementadas
 ✅ Criação de projeto com Maven e configuração do Spring via XML
-
 ✅ Mapeamento de entidades JPA e geração automática de tabelas no banco
-
 ✅ Criação de repositórios com JpaRepository
-
 ✅ Operações CRUD completas:
 
 Cadastro de registros
